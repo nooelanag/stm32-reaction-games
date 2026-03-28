@@ -1,0 +1,85 @@
+# ==========================
+# STM32CubeIDE / Eclipse CDT
+# ==========================
+
+# Build output directories
+Debug/
+Release/
+
+# Eclipse CDT project-specific generated files
+.cproject
+.settings/
+.mxproject
+
+# Launch configurations (user-specific)
+*.launch
+
+# ==========================
+# Compiled objects & binaries
+# ==========================
+*.o
+*.d
+*.su
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+*.srec
+
+# ==========================
+# OS-generated files
+# ==========================
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+.nfs*
+
+# ==========================
+# IDE / Editor files
+# ==========================
+
+# VS Code
+.vscode/
+
+# JetBrains (CLion, etc.)
+.idea/
+*.iml
+cmake-build-*/
+
+# Vim / Emacs
+*.swp
+*.swo
+*~
+\#*\#
+.#*
+
+# Sublime Text
+*.sublime-workspace
+*.sublime-project
+
+# ==========================
+# Miscellaneous
+# ==========================
+
+# Backup files
+*.bak
+*.orig
+*.tmp
+
+# Archives (should not be committed)
+*.zip
+*.tar.gz
+*.rar
