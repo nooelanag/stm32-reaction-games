@@ -156,7 +156,7 @@ The main application logic — GPIO setup, timer/ADC/EXTI configuration, ISR imp
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/dalouc/stm32-reaction-games.git
+   git clone https://github.com/nooelanag/stm32-reaction-games.git
    ```
 
 2. Open STM32CubeIDE and import the project:
